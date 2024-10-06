@@ -1,7 +1,7 @@
 export default function NavBar() {
   return (
     <>
-      <div className="fixed w-full h-20 flex items-center justify-center border-b border-[#4BAF4F]">
+      <div className="fixed bg-background w-full h-20 flex items-center justify-center border-b border-[#4BAF4F]">
         <div className="max-w-7xl flex justify-between items-center w-full">
           <div className="flex gap-2 items-center">
             <img
